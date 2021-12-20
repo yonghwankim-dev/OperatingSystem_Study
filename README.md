@@ -2,7 +2,8 @@
 
 ### Chapter 1-2. Introduction & O/S Structures
 
-1.  운영체제의 개념과 구조 : Introduction & O/S Structures
+1.  [운영체제의 소개: Introduction](https://yonghwankim-dev.tistory.com/186)
+2.  [운영체제의 구조 : O/S structures](https://yonghwankim-dev.tistory.com/187)
 
 ### Chapter 03. Processes
 
