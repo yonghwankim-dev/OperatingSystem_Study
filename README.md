@@ -7,8 +7,8 @@
 
 ### Chapter 03. Processes
 
-1.  프로세스의 이해: Processes (Part 1)
-2.  프로세스의 생성: Processes (Part 2)
+1.  [프로세스의 이해: Processes (Part 1)](https://yonghwankim-dev.tistory.com/191)
+2.  [프로세스의 생성: Processes (Part 2)](https://yonghwankim-dev.tistory.com/192)
 3.  프로세스간 통신: Processes (Part 3)
 4.  프로세스간 통신의 실제: Processes (Part 4)
 
