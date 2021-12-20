@@ -57,3 +57,7 @@
 ### Chapter 16-17. Security & Protection
 
 1.  운영체제의 보안: Security & Protection
+
+### References
+> Operating System Concepts, 10th Ed. feat. by Silberschatz et al.  
+> [\[인프런\] 운영체제 공룡책 강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98/dashboard)
