@@ -1,2 +1,1 @@
-# OperatingSystem_Study
-[인프런] 운영체제 강의 기반 정리
+# 운영체제 코드 및 요약 정리
