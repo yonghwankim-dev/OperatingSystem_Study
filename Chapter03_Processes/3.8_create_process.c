@@ -7,9 +7,7 @@ int main()
     pid_t pid;
 
     // 자식 프로세스 생성
-    printf("hello\n");
     pid = fork();
-    printf("pid : %d, hello fork\n",pid);
     if(pid<0)   // 에러 발생
     {
         fprintf(stderr, "Fork Failed");
