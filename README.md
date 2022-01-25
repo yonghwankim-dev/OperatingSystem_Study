@@ -14,8 +14,9 @@
 
 ### Chapter 04. Thread & Concurrency
 
-1.  [쓰레드의 이해: Thread & Concurrency (Part 1)](https://yonghwankim-dev.tistory.com/203)
-2.  멀티쓰레딩: Thread & Concurrency (Part 2)
+1.  [\[운영체제\]\[프로세스관리\] 쓰레드 #1 쓰레드란 무엇인가?](https://yonghwankim-dev.tistory.com/223)
+2.  [\[운영체제\]\[프로세스관리\] 쓰레드 #2 다중 쓰레드 모델(Multithreading Model)](https://yonghwankim-dev.tistory.com/224)
+3.  멀티쓰레딩: Thread & Concurrency (Part 2)
 
 ### Chapter 05. CPU Scheduling
 
