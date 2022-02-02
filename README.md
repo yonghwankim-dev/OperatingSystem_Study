@@ -17,7 +17,8 @@
 1.  [\[운영체제\]\[프로세스관리\] 쓰레드 #1 쓰레드란 무엇인가?](https://yonghwankim-dev.tistory.com/223)
 2.  [\[운영체제\]\[프로세스관리\] 쓰레드 #2 다중 쓰레드 모델(Multithreading Model)](https://yonghwankim-dev.tistory.com/224)
 3.  [\[운영체제\]\[프로세스관리\] 쓰레드 #3 쓰레드 라이브러리(Thread Library)](https://yonghwankim-dev.tistory.com/227)
-4.  멀티쓰레딩: Thread & Concurrency (Part 2)
+4.  [\[운영체제\]\[프로세스관리\] 쓰레드 #4 쓰레드와 관련된 문제들(Threading Issues)](https://yonghwankim-dev.tistory.com/230)
+5.  멀티쓰레딩: Thread & Concurrency (Part 2)
 
 ### Chapter 05. CPU Scheduling
 
