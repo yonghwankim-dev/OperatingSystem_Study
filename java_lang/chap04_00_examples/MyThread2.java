@@ -1,4 +1,4 @@
-package java.chap04_00_examples;
+package java_lang.chap04_00_examples;
 
 
 public class MyThread2 implements Runnable{

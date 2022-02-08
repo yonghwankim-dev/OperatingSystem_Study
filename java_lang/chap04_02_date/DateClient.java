@@ -1,4 +1,4 @@
-package java.chap03_00_examples;
+package java_lang.chap04_02_date;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

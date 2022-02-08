@@ -1,4 +1,4 @@
-package java.chap04_00_examples;
+package java_lang.chap04_00_examples;
 
 public class MyThread4{
 	
@@ -15,7 +15,7 @@ public class MyThread4{
 		thread.start();
 		try
 		{
-			thread.join();	// �벐�젅�뱶媛� 醫낅즺 �맆 �븣媛�吏� wait
+			thread.join();	// 占쎈쾺占쎌쟿占쎈굡揶쏉옙 �넫�굝利� 占쎈쭍 占쎈르揶쏉옙筌욑옙 wait
 		}
 		catch(InterruptedException ie)
 		{

@@ -1,4 +1,4 @@
-package java.chap04_01_prime;
+package java_lang.chap04_01_prime;
 
 import java.io.BufferedReader;
 import java.io.IOException;

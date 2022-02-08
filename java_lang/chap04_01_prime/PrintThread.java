@@ -1,4 +1,4 @@
-package java.chap04_01_prime;
+package java_lang.chap04_01_prime;
 
 public class PrintThread implements Runnable{
 	private int n;

@@ -1,4 +1,4 @@
-package java.chap03_00_examples;
+package java_lang.chap03_00_examples;
 
 import java.io.PrintWriter;
 import java.net.ServerSocket;

@@ -1,15 +1,11 @@
-package java.chap04_01_prime;
+package java_lang.chap04_01_prime;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-class PrimeTest {
+class DriverTest {
 
 	// 단일 쓰레드 실험
 	// n=10000000 (1억)
