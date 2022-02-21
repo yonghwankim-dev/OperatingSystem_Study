@@ -22,8 +22,8 @@
 
 ### Chapter 05. CPU Scheduling
 
-1.  CPU 스케줄링: CPU Scheduling (Part 1)
-2.  스케줄링 알고리즘: CPU Scheduling (Part 2)
+1.  [\[운영체제\]\[프로세스관리\] CPU Scheduling #1 CPU Scheduling의 개념 및 기준](https://yonghwankim-dev.tistory.com/242)
+2.  [\[운영체제\]\[프로세스관리\] CPU Scheduling #2 스케줄링 알고리즘(Scheduling Algorithm), FCFS, SJF](https://yonghwankim-dev.tistory.com/243)
 
 ### Chapter 06. Synchronization Tools
 
