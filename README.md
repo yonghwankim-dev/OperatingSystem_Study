@@ -26,6 +26,7 @@
 2.  [\[운영체제\]\[프로세스관리\] CPU Scheduling #2 스케줄링 알고리즘(Scheduling Algorithm), FCFS, SJF](https://yonghwankim-dev.tistory.com/243)
 3.  [\[운영체제\]\[프로세스관리\] CPU Scheduling #3 스케줄링 알고리즘(Scheduling Algorithm), Priority, RR, MLQ, MLFQ](https://yonghwankim-dev.tistory.com/244)
 4.  [\[운영체제\]\[프로세스관리\] CPU Scheduling #4 다중 처리기 스케줄링(Multiple-Processor Scheduling)](https://yonghwankim-dev.tistory.com/247)
+5.  [\[운영체제\]\[프로세스관리\] CPU Scheduling #5 쓰레드 스케줄링(Thread Scheduling)](https://yonghwankim-dev.tistory.com/251)
 
 ### Chapter 06. Synchronization Tools
 
