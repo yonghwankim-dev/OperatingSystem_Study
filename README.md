@@ -33,9 +33,10 @@
 1.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #1 프로세스 동기화 필요 배경](https://yonghwankim-dev.tistory.com/255)
 2.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #2 임계 구역 문제(Critical-Section Problem)](https://yonghwankim-dev.tistory.com/256)
 3.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #3 피터슨의 해결안(Peterson's Solution)](https://yonghwankim-dev.tistory.com/265)
-4.  동기화 문제의 해결책: Synchronization Tools (Part 2)
-5.  뮤텍스와 세마포어: Synchronization Tools (Part 3)
-6.  모니터와 자바 동기화: Synchronization Tools (Part 4)
+4.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #4 동기화 하드웨어(Synchronization Hardware)](https://yonghwankim-dev.tistory.com/266)
+5.  동기화 문제의 해결책: Synchronization Tools (Part 2)
+6.  뮤텍스와 세마포어: Synchronization Tools (Part 3)
+7.  모니터와 자바 동기화: Synchronization Tools (Part 4)
 
 ### Chapter 07. Synchronization Examples
 
