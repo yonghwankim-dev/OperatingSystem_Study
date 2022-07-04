@@ -30,7 +30,7 @@
 
 ### Chapter 06. Synchronization Tools
 
-1.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #1 프로세스 동기화 필요 배경](https://yonghwankim-dev.tistory.com/255)
+1.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #1 프로세스 동기화의 배경(필요성)](https://yonghwankim-dev.tistory.com/471)
 2.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #2 임계 구역 문제(Critical-Section Problem)](https://yonghwankim-dev.tistory.com/256)
 3.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #3 피터슨의 해결안(Peterson's Solution)](https://yonghwankim-dev.tistory.com/265)
 4.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #4 동기화 하드웨어(Synchronization Hardware)](https://yonghwankim-dev.tistory.com/266)
