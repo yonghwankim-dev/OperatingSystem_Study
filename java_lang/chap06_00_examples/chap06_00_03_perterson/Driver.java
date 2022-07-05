@@ -2,8 +2,8 @@ package java_lang.chap06_00_examples.chap06_00_03_perterson;
 
 public class Driver {
 	static int sum = 0;
-	static boolean[] flag = new boolean[2];
 	static int turn = 0;
+	static boolean[] flag = new boolean[2];
 	
 	public static void main(String[] args)
 	{
