@@ -34,7 +34,7 @@
 2.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #2 임계 구역 문제(Critical-Section Problem)](https://yonghwankim-dev.tistory.com/256)
 3.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #3 동기화 문제의 해결책 : 피터슨의 해결안(Peterson's Solution)](https://yonghwankim-dev.tistory.com/265?category=990150)
 4.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #4 동기화 하드웨어(Synchronization Hardware)](https://yonghwankim-dev.tistory.com/266)
-5.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #5 세마포어(Semaphore)](https://yonghwankim-dev.tistory.com/270)
+5.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #5 뮤텍스 락(Mutex Lock)과 세마포어(Semaphore)](https://yonghwankim-dev.tistory.com/270)
 6.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #6 고전적인 동기화 문제들(Classic Problems of Synchronization)](https://yonghwankim-dev.tistory.com/272)
 7.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #7 모니터(Monitor)](https://yonghwankim-dev.tistory.com/323)
 8.  동기화 문제의 해결책: Synchronization Tools (Part 2)
