@@ -17,7 +17,6 @@ public class SynchExample1 {
 				Counter.increment();
 			}
 		}
-		
 	}
 	public static void main(String[] args) throws InterruptedException {
 		Thread[] threads = new Thread[5];
