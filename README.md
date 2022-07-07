@@ -40,7 +40,7 @@
 
 ### Chapter 07. Synchronization Examples
 
-1.  [\[운영체제\]\[프로세스관리\] 프로세스 동기화 #6 고전적인 동기화 문제들(Classic Problems of Synchronization)](https://yonghwankim-dev.tistory.com/272)
+1.  [\[운영체제\]\[프로세스관리\] 동기화 예제 #1 동시성 제어의 고전적 문제들](https://yonghwankim-dev.tistory.com/272)
 2.  철학자들은 왜 굶어 죽었을까?: Synchronization Examples (Part 2)
 3.  철학자들의 저녁식사 Java 버전: Synchronization Examples (Part 3) 
 
