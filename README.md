@@ -41,8 +41,7 @@
 ### Chapter 07. Synchronization Examples
 
 1.  [\[운영체제\]\[프로세스관리\] 동기화 예제 #1 동시성 제어의 고전적 문제들](https://yonghwankim-dev.tistory.com/272)
-2.  철학자들은 왜 굶어 죽었을까?: Synchronization Examples (Part 2)
-3.  철학자들의 저녁식사 Java 버전: Synchronization Examples (Part 3) 
+2.  [\[운영체제\]\[프로세스관리\] 동기화 예제 #2 식사하는 철학자들은 왜 굶어 죽었을까?](https://yonghwankim-dev.tistory.com/479)
 
 ### Chapter 08. Deadlocks
 
