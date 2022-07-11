@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="operatingsystem_c"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bounded_buffer_test">
+				<Option output="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/bounded_buffer_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 bounded_buffer_test"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bounded_buffer_test/fast">
+				<Option output="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/bounded_buffer_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 bounded_buffer_test/fast"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="philospher_test">
+				<Option output="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/philospher_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 philospher_test"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="philospher_test/fast">
+				<Option output="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/philospher_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 philospher_test/fast"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/chap07_synchronization/7.1_bounded_buffer.c">
+			<Option target="bounded_buffer_test"/>
+		</Unit>
+		<Unit filename="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/chap07_synchronization/7.2_philosopher.c">
+			<Option target="philospher_test"/>
+		</Unit>
+		<Unit filename="C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/CMakeFiles/bounded_buffer_test.dir
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/CMakeFiles/philospher_test.dir
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/CMakeFiles/edit_cache.dir
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/CMakeFiles/rebuild_cache.dir

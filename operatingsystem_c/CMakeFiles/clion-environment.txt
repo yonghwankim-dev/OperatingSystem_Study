@@ -1,0 +1,4 @@
+ToolSet: w64 9.0 (local)@D:\jetbrans_tools\CLion 2022.1.3\bin\mingw
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe

@@ -1,0 +1,3 @@
+"D:\jetbrans_tools\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\philosp.dir/objects.a
+"D:\jetbrans_tools\CLion 2022.1.3\bin\mingw\bin\ar.exe" qc CMakeFiles\philosp.dir/objects.a @CMakeFiles\philosp.dir\objects1.rsp
+"D:\jetbrans_tools\CLion 2022.1.3\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\philosp.dir/objects.a -Wl,--no-whole-archive -o philosp.exe -Wl,--out-implib,libphilosp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\philosp.dir\linklibs.rsp

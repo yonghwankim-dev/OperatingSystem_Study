@@ -1,0 +1,51 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+						"D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/include",
+						"D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+						"D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/gcc.exe",
+				"version" : "11.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

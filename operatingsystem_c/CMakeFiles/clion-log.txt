@@ -1,0 +1,4 @@
+"D:\jetbrans_tools\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/jetbrans_tools/CLion 2022.1.3/bin/mingw/bin/mingw32-make.exe" -G "CodeBlocks - MinGW Makefiles" -S C:\Users\qkdlf\Study\OperatingSystem\operatingsystem_c -B C:\Users\qkdlf\Study\OperatingSystem\operatingsystem_c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c

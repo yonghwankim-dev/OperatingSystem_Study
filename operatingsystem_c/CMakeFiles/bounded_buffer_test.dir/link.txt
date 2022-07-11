@@ -1,0 +1,3 @@
+"D:\jetbrans_tools\CLion 2022.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\bounded_buffer_test.dir/objects.a
+"D:\jetbrans_tools\CLion 2022.1.3\bin\mingw\bin\ar.exe" qc CMakeFiles\bounded_buffer_test.dir/objects.a @CMakeFiles\bounded_buffer_test.dir\objects1.rsp
+"D:\jetbrans_tools\CLion 2022.1.3\bin\mingw\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\bounded_buffer_test.dir/objects.a -Wl,--no-whole-archive -o bounded_buffer_test.exe -Wl,--out-implib,libbounded_buffer_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bounded_buffer_test.dir\linklibs.rsp
