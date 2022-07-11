@@ -1,0 +1,3 @@
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/cmake-build-debug/CMakeFiles/bounded_buffer_test.dir
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/qkdlf/Study/OperatingSystem/operatingsystem_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
