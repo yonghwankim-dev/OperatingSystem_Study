@@ -45,8 +45,10 @@
 
 ### Chapter 08. Deadlocks
 
-1.  데드락의 이해: Deadlocks (Part 1)
-2.  데드락과 뱅커 알고리즘: Deadlocks (Part 2)
+1.  [\[운영체제\]\[프로세스관리\] Deadlocks #1 교착상태의 이해 : 교착상태 방지(Deadlock Prevention)](https://yonghwankim-dev.tistory.com/480)
+2.  [\[운영체제\]\[프로세스관리\] Deadlocks #2 교착상태와 뱅커 알고리즘(Deadlocks & Banker's Algorithm) : 교착상태 회피(Deadlock Avoidance)](https://yonghwankim-dev.tistory.com/481)
+3.  [\[운영체제\]\[프로세스관리\] Deadlocks #3 교착상태 탐색(Detection) 후 회복(Recovery)](https://yonghwankim-dev.tistory.com/482)
+
 
 ### Chapter 09. Main Memory
 
