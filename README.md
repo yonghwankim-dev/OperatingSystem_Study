@@ -52,12 +52,12 @@
 
 ### Chapter 09. Main Memory
 
-1.  주메모리의 관리: Main Memory (Part 1)
-2.  페이징과 스와핑: Main Memory (Part 2)
+1.  [\[운영체제\]\[메모리관리\] Main Memory #1 주 메모리의 관리](https://yonghwankim-dev.tistory.com/484)
+2.  [\[운영체제\]\[메모리관리\] Main Memory #2 페이징과 스와핑](https://yonghwankim-dev.tistory.com/488)
 
 ### Chapter 10. Virtual Memory
 
-1.  가상 메모리와 디맨드 페이징: Virtual Memory (Part 1)
+1.  [\[운영체제\]\[메모리관리\] Virtual Memory #3 가상 메모리와 디맨드 페이징](https://yonghwankim-dev.tistory.com/489)
 2.  페이지 교체 알고리즘: Virtual Memory (Part 2)
 
 ### Chapter 11-15. Storage Management
