@@ -57,7 +57,7 @@
 
 ### Chapter 10. Virtual Memory
 
-1.  [\[운영체제\]\[메모리관리\] Virtual Memory #3 가상 메모리와 디맨드 페이징](https://yonghwankim-dev.tistory.com/489)
+1.  [\[운영체제\]\[메모리관리\] Virtual Memory #1 가상 메모리와 디맨드 페이징](https://yonghwankim-dev.tistory.com/489)
 2.  페이지 교체 알고리즘: Virtual Memory (Part 2)
 
 ### Chapter 11-15. Storage Management
