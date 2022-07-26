@@ -62,7 +62,8 @@
 
 ### Chapter 11-15. Storage Management
 
-1.  스토리지와 입출력: Stroage Management
+1. [\[운영체제\]\[저장장치관리\] 저장장치와 입출력(Storage & Input/Output) #1 대용량 저장장치 구조(Mass-Storage Structure)](https://yonghwankim-dev.tistory.com/494)
+
 
 ### Chapter 16-17. Security & Protection
 
