@@ -69,7 +69,9 @@
 
 ### Chapter 16-17. Security & Protection
 
-1.  운영체제의 보안: Security & Protection
+1. [\[운영체제\]\[보호와보안\] Security & Protection #1 Security](https://yonghwankim-dev.tistory.com/499)
+2. [\[운영체제\]\[보호와보안\] Security & Protection #2 Protection](https://yonghwankim-dev.tistory.com/500)
+
 
 ### References
 > Operating System Concepts, 10th Ed. feat. by Silberschatz et al.  
