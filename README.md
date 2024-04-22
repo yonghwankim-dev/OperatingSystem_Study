@@ -40,14 +40,14 @@
 
 ### Chapter 07. Synchronization Examples
 
-1.  [\[운영체제\]\[프로세스관리\] 동기화 예제 #1 동시성 제어의 고전적 문제들](https://yonghwankim-dev.tistory.com/272)
-2.  [\[운영체제\]\[프로세스관리\] 동기화 예제 #2 식사하는 철학자들은 왜 굶어 죽었을까?](https://yonghwankim-dev.tistory.com/479)
+- [동기화 예제 #1 동시성 제어의 고전적 문제들](https://yonghwankim-dev.tistory.com/272)
+- [동기화 예제 #2 식사하는 철학자들은 왜 굶어 죽었을까?](https://yonghwankim-dev.tistory.com/479)
 
 ### Chapter 08. Deadlocks
 
-1.  [\[운영체제\]\[프로세스관리\] Deadlocks #1 교착상태의 이해 : 교착상태 방지(Deadlock Prevention)](https://yonghwankim-dev.tistory.com/480)
-2.  [\[운영체제\]\[프로세스관리\] Deadlocks #2 교착상태와 뱅커 알고리즘(Deadlocks & Banker's Algorithm) : 교착상태 회피(Deadlock Avoidance)](https://yonghwankim-dev.tistory.com/481)
-3.  [\[운영체제\]\[프로세스관리\] Deadlocks #3 교착상태 탐색(Detection) 후 회복(Recovery)](https://yonghwankim-dev.tistory.com/482)
+- [Deadlocks #1 교착상태의 이해 : 교착상태 방지(Deadlock Prevention)](https://yonghwankim-dev.tistory.com/480)
+- [Deadlocks #2 교착상태와 뱅커 알고리즘(Deadlocks & Banker's Algorithm) : 교착상태 회피(Deadlock Avoidance)](https://yonghwankim-dev.tistory.com/481)
+- [Deadlocks #3 교착상태 탐색(Detection) 후 회복(Recovery)](https://yonghwankim-dev.tistory.com/482)
 
 
 ### Chapter 09. Main Memory
