@@ -1,1 +1,1 @@
-docker run --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp gcc:4.9 sh -c "gcc -o myapp create_process.c && ./myapp"
+docker run --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp gcc:4.9 sh -c "gcc -o myapp memory_layout.c && ./myapp && size ./myapp"

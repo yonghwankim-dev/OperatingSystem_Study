@@ -15,5 +15,11 @@ int main(int argc, char *argv[])
     {
         values[i] = i;
     }
+
+    for(i=0; i<5; i++)
+    {
+        printf("%d ", values[i]);
+    }
+    printf("\n");
     return 0;
 }

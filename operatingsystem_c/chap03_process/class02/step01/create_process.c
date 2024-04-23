@@ -15,7 +15,7 @@ int main()
     }
     else if(pid==0) // 자식 프로세스인 경우
     {
-        execlp("/bin/ls","ls",NULL);
+        execlp("/bin/ls", "ls", "-l", NULL);
     }
     else    // 부모 프로세스인 경우
     {

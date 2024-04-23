@@ -7,5 +7,6 @@ int main()
 
     pid = fork();
     printf("Hello, Process!\n");
+    wait(NULL);
     return 0;
 }
