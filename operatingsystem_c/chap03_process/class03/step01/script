@@ -1,0 +1,1 @@
+docker run -it --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp gcc:4.9 sh -c "gcc -o sender sender.c -lrt && gcc -o receiver receiver.c -lrt && bash"
