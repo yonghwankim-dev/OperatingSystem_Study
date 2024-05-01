@@ -80,6 +80,7 @@ int main() {
 
     // wait for Child Process to end
     wait(NULL);
+    wait(NULL);
 
     // destroy shared memory
     shmctl(shm_id, IPC_RMID, NULL);
