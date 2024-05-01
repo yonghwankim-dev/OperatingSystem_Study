@@ -59,7 +59,7 @@ int main() {
         exit(0);
     }
 
-    // create the customer process
+    // create the consumer process
     if (fork() == 0) {
         int i;
         for (i = 0; i < MAX_ITEMS; i++) {

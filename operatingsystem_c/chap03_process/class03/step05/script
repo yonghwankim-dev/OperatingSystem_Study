@@ -1,0 +1,1 @@
+docker run -it --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp gcc:4.9 sh -c "gcc -o myapp mq_producer_consumer.c -lrt & bash"

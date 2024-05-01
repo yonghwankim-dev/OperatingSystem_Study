@@ -63,7 +63,7 @@ int main(){
         exit(0);
     }
 
-    // create customer process
+    // create consumer process
     if(fork() == 0){
         int i;
         for (i = 0; i < 10; i++){
