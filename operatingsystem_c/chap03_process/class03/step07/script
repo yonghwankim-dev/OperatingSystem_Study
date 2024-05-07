@@ -1,0 +1,1 @@
+docker run -it --rm -v "$PWD":/usr/src/myapp -w /usr/src/myapp gcc:4.9 sh -c "gcc -o myapp named_pipe_writer.c -lrt & gcc -o myapp2 named_pipe_reader.c -lrt & bash"

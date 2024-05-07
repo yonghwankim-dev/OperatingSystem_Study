@@ -37,5 +37,7 @@ int main()
         close(fd[READ_END]);
     }
 
+    wait(NULL);
+
     return 0;
 }
